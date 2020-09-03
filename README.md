@@ -1,10 +1,11 @@
 ### Hi and welcome on my Github profile 👋
 
-My name is Stéphane and I am a full stack developper working with
+My name is Stéphane and I am a full stack javascript developper working with
 - React.js
 - React Native
 - Redux
 - Node.js
+- TypeScript of Flow
 
 <!--
 **sulistef/sulistef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
