@@ -1,7 +1,5 @@
 ### Hi and welcome on my Github profile 👋
 
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 My name is Stéphane and I am a full stack javascript developper working with
 - React.js
 - React Native
