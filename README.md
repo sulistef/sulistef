@@ -5,7 +5,7 @@ My name is Stéphane and I am a full stack javascript developper working with
 - React Native
 - Redux
 - Node.js
-- TypeScript of Flow
+- TypeScript or Flow
 
 <!--
 **sulistef/sulistef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
